@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+
+    <!--  HomeScreen  -->
+    <string name="user_location">Use my location</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="loading">Loading</string>
+    <string name="retry">Retry</string>
+
+</resources>
